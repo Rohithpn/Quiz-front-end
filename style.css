@@ -125,7 +125,7 @@ input[type="radio"]:checked + .radio-checkmark::after {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("../assests/question_marks_background.jpg"); 
+  background-image: url("question_marks_background.jpg"); 
   background-repeat: no-repeat; 
   background-size: cover; 
   background-position: center; 
